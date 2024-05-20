@@ -30,11 +30,7 @@ Ready to embark on your culinary journey? Visit the [FoodieFinds web application
 ## Contributing 🙌
 
 We believe in the power of community collaboration! If you have ideas for enhancing FoodieFinds or want to contribute to its development, we welcome your input and contributions. Simply fork the repository, make your improvements, and submit a pull request to be part of our vibrant food-loving community.
-
-## Credits 🙏
-
-FoodieFinds wouldn't be possible without the incredible contributions of open-source libraries and APIs that enrich its functionality. We extend our heartfelt gratitude to the developers and contributors behind these essential resources.
-
+
 ## License 📝
 
 This project is licensed under the [MIT License](LICENSE), granting you the freedom to explore, experiment, and innovate with FoodieFinds to your heart's content.
